@@ -1,0 +1,10 @@
+[
+  {
+    "_note": "Normal mode now crafts cards in-game (50 power points each). This file is unused by crash_out.py.",
+    "power_points": 50,
+    "rules": {
+      "self_target": "heal only",
+      "other_target": "damage only"
+    }
+  }
+]

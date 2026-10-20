@@ -1,0 +1,81 @@
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520361887}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520363947}
+{"sessionId": "1c24e8", "hypothesisId": "E", "location": "show_craft", "message": "scale.set after preview created", "data": {"slot": 1}, "timestamp": 1786520363955}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "25.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520363956}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520364645}
+{"sessionId": "1c24e8", "hypothesisId": "E", "location": "show_craft", "message": "scale.set after preview created", "data": {"slot": 2}, "timestamp": 1786520364651}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "25.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520364651}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "27.129120879120876", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365549}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "32.142857142857146", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365556}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "36.46978021978022", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365562}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "40.934065934065934", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365569}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "44.98626373626374", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365577}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "49.244505494505496", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365584}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365591}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365599}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365606}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365615}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365618}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365626}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365633}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365640}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365648}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365654}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365661}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365668}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365677}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365682}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "50.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520365689}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520366367}
+{"sessionId": "1c24e8", "hypothesisId": "E", "location": "show_craft", "message": "scale.set after preview created", "data": {"slot": 3}, "timestamp": 1786520366372}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "25.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520366373}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "24.65659340659341", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367404}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "24.03846153846154", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367411}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "23.076923076923077", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367418}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "21.634615384615387", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367427}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "19.642857142857142", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367432}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "17.78846153846154", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367439}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "16.208791208791208", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367447}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "14.972527472527473", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367453}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "13.804945054945057", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367462}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "12.225274725274724", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367467}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "10.302197802197801", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367475}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "8.173076923076923", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367481}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "5.4945054945054945", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367489}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "2.3351648351648353", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367496}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367503}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367511}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367517}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367524}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367531}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367540}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367545}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367553}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367560}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367566}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367573}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367580}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "0.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520367630}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520368189}
+{"sessionId": "1c24e8", "hypothesisId": "E", "location": "show_craft", "message": "scale.set after preview created", "data": {"slot": 4}, "timestamp": 1786520368197}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "25.0", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520368197}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "25.206043956043956", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369204}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "26.51098901098901", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369211}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "28.502747252747252", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369218}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "30.42582417582417", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369225}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "32.48626373626374", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369232}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "34.34065934065934", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369238}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "35.714285714285715", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369246}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "36.53846153846153", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369253}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.15659340659341", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369261}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.5", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369267}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.637362637362635", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369274}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.706043956043956", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369288}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.637362637362635", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369373}
+{"sessionId": "1c24e8", "hypothesisId": "A", "location": "_on_damage_slide", "message": "callback", "data": {"value": "37.56868131868132", "preview_ok": 1, "save_ok": 1}, "timestamp": 1786520369387}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520370184}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520370189}
+{"sessionId": "1c24e8", "hypothesisId": "C", "location": "_show_target_overlay", "message": "raising overlay widget via Misc.tkraise", "data": {}, "timestamp": 1786520371038}
+{"sessionId": "1c24e8", "hypothesisId": "C", "location": "_show_target_overlay", "message": "overlay raised ok", "data": {}, "timestamp": 1786520371039}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520388882}
+{"sessionId": "1c24e8", "hypothesisId": "D", "location": "clear", "message": "destroying container children", "data": {}, "timestamp": 1786520389908}

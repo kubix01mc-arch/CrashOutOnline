@@ -1,0 +1,4 @@
+-r requirements-browser.txt
+pywebview>=5.4; sys_platform != "darwin"
+Pillow>=9.1
+tkinterdnd2>=0.3

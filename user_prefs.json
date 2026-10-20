@@ -1,0 +1,87 @@
+{
+  "theme_name": "Enchanted Grove",
+  "theme": {
+    "name": "Enchanted Grove",
+    "font_path": "C:\\Users\\Aadhavan Vijayakumar\\Documents\\cursor projects\\Crash out\\Minecraft-20230518T220806Z-001 (1)\\Minecraft\\arial.ttf",
+    "font_family": "Minecraft",
+    "screen_bg": "#101a12",
+    "win_bg": "#1f5a32",
+    "lose_bg": "#5a2818",
+    "title_fg": "#e8ffe0",
+    "body_fg": "#c8e8b8",
+    "log_bg": "#0a120a",
+    "log_fg": "#90e878",
+    "overlay_bg": "#101a12",
+    "panel_bg": "#1a2820",
+    "panel_border": "#78c860",
+    "target_bg": "#1a2820",
+    "hud_active": [
+      "#3d5a45",
+      "#f0c674",
+      "#fff6d8"
+    ],
+    "hud_idle": [
+      "#222c24",
+      "#8a948c",
+      "#c4b59a"
+    ],
+    "hud_dead": [
+      "#202820",
+      "#688068",
+      "#90a890"
+    ],
+    "target_self": [
+      "#3d5a45",
+      "#f0c674",
+      "#f7f0e0"
+    ],
+    "target_other": [
+      "#1c261e",
+      "#c4b59a",
+      "#f2e9d8"
+    ],
+    "scale_trough": "#223922",
+    "scale_fill": "#58bf58",
+    "scale_border": "#459045",
+    "scale_light": "#7dcd7d",
+    "scale_dark": "#356e35",
+    "card_style": "pixel",
+    "cards": {
+      "normal": [
+        "#243820",
+        "#a0d878",
+        "#f0ffe8"
+      ],
+      "heal": [
+        "#1a3828",
+        "#60e090",
+        "#e0ffe8"
+      ],
+      "heavy_hit": [
+        "#382818",
+        "#e09060",
+        "#ffe8d8"
+      ],
+      "steal": [
+        "#282038",
+        "#b090e0",
+        "#f0e8ff"
+      ],
+      "disabled": [
+        "#202820",
+        "#688068",
+        "#90a890"
+      ],
+      "selected": [
+        "#2a4828",
+        "#f0d060",
+        "#fffae0"
+      ],
+      "poison": [
+        "#2a1540",
+        "#a855f7",
+        "#f3e8ff"
+      ]
+    }
+  }
+}

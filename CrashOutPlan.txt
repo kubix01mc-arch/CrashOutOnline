@@ -1,0 +1,91 @@
+Local Hotseat Custom Card Game — Crash Out Plan
+================================================
+
+Overview
+--------
+Build a local hotseat web card game where players create freeform cards, build
+5-card decks, and take turns playing one card at a time against chosen
+targets—with effects resolved by the table (honor system) plus light
+structured targeting.
+
+Todos
+-----
+1. Scaffold Vite React TypeScript app + base styles/theme
+2. Add types, game rules helpers, Zustand/store + localStorage card library
+3. Build lobby, card lab, and 5-card deck builder screens
+4. Implement hotseat turn loop: play, target, resolve/HP, pass device, win check
+5. Card UI, motion, mobile-friendly layout, rematch flow
+
+Approach
+--------
+Single-device hotseat web app (Vite + React + TypeScript). Four players share
+one browser; each turn shows only the active player's hand, then a short
+"pass device" screen.
+
+Card creation (freeform-first): each card has a name, freeform effect text,
+and a small structured target rule (self | one player | all opponents |
+everyone). Effects are not auto-resolved — after play, the table reads the
+text and applies outcomes (optional manual HP adjust). That matches freeform
+creation without a scripting engine.
+
+Defaults: 4 fixed seats, each starts with 10 HP, deck of exactly 5 cards from
+a shared card library. A player is out at 0 HP. Last player with HP > 0 wins.
+If all decks empty with 2+ alive, highest HP wins.
+
+Game flow
+---------
+1. Setup: names + create cards
+2. Each player builds a 5-card deck
+3. Active player sees hand
+4. Play 1 card + choose targets
+5. Show effect text + adjust HP if needed
+6. If one player left or decks empty -> show winner
+7. Else -> next alive player -> back to step 3
+
+Screens
+-------
+1. Lobby — enter 4 player names, Start.
+2. Card lab — create/edit/delete cards in a shared library (name, effect text,
+   target type, optional color accent). Persist to localStorage.
+3. Deck builder — each player (in order) picks exactly 5 cards from the
+   library into their deck.
+4. Play — active hand, play area, player status (HP / cards left), target
+   picker constrained by card's target type.
+5. Resolve — full card text + "Apply HP changes" controls (+/- per player)
+   + End turn.
+6. Pass device — hides the next hand until Continue.
+7. Game over — winner + rematch (same cards) or back to lobby.
+
+Project layout
+--------------
+New Vite app in the workspace root:
+
+- src/types.ts — Card, Player, GamePhase, target enums
+- src/store/gameStore.ts — React state (or Zustand): library, decks, turn
+  order, HP, played pile
+- src/lib/persistence.ts — localStorage for card library
+- src/lib/rules.ts — validate deck size, legal targets, next alive player,
+  win check
+- Screens under src/screens/ and small UI under src/components/
+  (card face, player strip, HP stepper)
+
+Turn rules (locked in)
+----------------------
+- On your turn: play exactly one card from hand.
+- Choose targets per the card's target type.
+- Card moves to a shared discard/play log; hand shrinks.
+- After resolve + End turn -> pass-device -> next alive player.
+- Skipping a turn is not allowed unless the player has no cards (auto-skip).
+
+UI direction
+------------
+One clear play surface per phase (not a dashboard). Bold game title as brand
+signal on lobby. Expressive typography, atmospheric background (table-felt
+texture/gradient), full-bleed feel on lobby. Motion: card flip/slide on play,
+turn banner transition, soft HP change pulse. Avoid purple-glow / cream-serif
+clichés; aim for a loud tabletop "crash out" energy (sharp contrast,
+ink/paper card look).
+
+Out of scope (for v1)
+--------------------
+Online multiplayer, card art uploads, automated effect scripting, AI opponents.
